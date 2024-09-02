@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dewsbous.github.io/sitemap.html.gz
+Sitemap: https://dewsbous.github.io/app/sitemap.html.gz
+Sitemap: https://dewsbous.github.io/assets/sitemap.html.gz
+Sitemap: https://dewsbous.github.io/css/sitemap.html.gz
+Sitemap: https://dewsbous.github.io/includes/sitemap.html.gz
+Sitemap: https://dewsbous.github.io/item/sitemap.html.gz
+Sitemap: https://dewsbous.github.io/src/sitemap.html.gz
